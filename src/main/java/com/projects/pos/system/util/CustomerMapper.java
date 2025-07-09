@@ -7,7 +7,6 @@ import com.projects.pos.system.dto.response.CustomerSpecificDetailsResponseDTO;
 import com.projects.pos.system.entity.Customer;
 
 import java.util.List;
-import java.util.Optional;
 
 @Mapper(componentModel = "spring")
 public interface CustomerMapper {
